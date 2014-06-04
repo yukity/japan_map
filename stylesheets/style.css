@@ -1,0 +1,11 @@
+svg {
+    width: 800px;
+    height: 1200px;
+    border: 1px solid black;
+}
+
+svg>rect {
+    stroke: rgb(160, 0, 0);
+    stroke-width: 1px;
+    fill: rgb(255, 0, 0);
+}
